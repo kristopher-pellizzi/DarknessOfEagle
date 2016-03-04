@@ -1,0 +1,7 @@
+Questa sarebbe la base x le varie pagine. La parte bianca in alto sarebbe dove c'è il "titolo";
+la parte nera subito sotto è la parte dove ci saranno i vari bottoni;
+la parte rossa e dove ci saranno i link pc, PS network e xbox live;
+la parte blu è dove ci saranno i link per la pagina fb e per il forum;
+la parte nera in basso è il footer, in cui mettiamo i nomi dei vari moderatori (se sono troppi almeno i principali), l'ip di ts, e la mail (vedi tu se ci vuoi mettere altro);
+ovviamente i colori di sfondo cambieranno, li ho messi solo per distinguere i vari box, volendo puoi metterci anche qualche immagine di background;
+fammi sapere se va bene e io comincio.
